@@ -1,4 +1,4 @@
-<h1>Practica DIG - Anxo Vázquez Lorenzo</h1>
+<h1>Práctica DIG - Anxo Vázquez Lorenzo</h1>
 
 <h2>1. Realiza unha consulta "dig danielcastelao.org"</h2>
 <p>Identifica cada parte da resposta (IN, CNAME, A, QUERY SECTION, ANSWER SECTION, AUTHORITY SECTION, etc).</p>
