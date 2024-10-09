@@ -1,3 +1,4 @@
+<h1>pruebA</h1>
 ##Practica DIG - Anxo Vázquez Lorenzo
 
 #1. Realiza unha consulta "dig danielcastelao.org" e identific cada parte da resposta (IN, CNAME, A, QUERY SECTION, ANSWER SECTION, AUTHORITY SECTION, etc)
